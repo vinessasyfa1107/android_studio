@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.example.latihan_p1",
+  "applicationId": "com.example.splashscreen",
   "variantName": "debug",
   "elements": []
 }
