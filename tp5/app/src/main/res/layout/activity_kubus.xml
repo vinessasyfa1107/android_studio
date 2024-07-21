@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.example.tp5.kubus"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Isikan sisi kubus " />
+
+
+    <EditText
+        android:id="@+id/sisiKubus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:lines="1" />
+
+    <Button
+        android:id="@+id/btn_calculateKubus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hitung Kubus" />
+
+    <TextView
+        android:id="@+id/viewHasilKubus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Volume kubus adalah"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_backKubus"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:background="@color/darkblue"
+        android:layout_marginTop="80dp"
+        android:text="Kembali"
+        android:onClick="backToActivity"/>
+
+</LinearLayout>

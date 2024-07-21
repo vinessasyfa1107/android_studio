@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.example.tp5.persegi"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Isikan sisi persegi " />
+
+
+    <EditText
+        android:id="@+id/sisiPersegi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:lines="1" />
+
+    <Button
+        android:id="@+id/btn_calculatepersegi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hitung Persegi" />
+
+    <TextView
+        android:id="@+id/viewHasilPersegi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Luas persegi adalah"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_backpersegi"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:background="@color/darkblue"
+        android:layout_marginTop="80dp"
+        android:text="Kembali"
+        android:onClick="backToActivity"/>
+
+</LinearLayout>
