@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorAccent
+color colorPrimary
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme._4P3_2110512121_VinessaGabby
+style Theme._4P3_2110512121_VinessaGabby
+xml backup_rules
+xml data_extraction_rules

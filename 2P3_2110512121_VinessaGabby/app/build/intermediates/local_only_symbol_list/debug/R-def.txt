@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id dates
+id name
+id times
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string done
+string reminder
+style Base.Theme._2P3_2110512121_VinessaGabby
+style Theme._2P3_2110512121_VinessaGabby
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,2 @@
+com.example.a2p3_2110512121_vinessagabby.test:style/WhiteBackgroundTheme = 0x7f010001
+com.example.a2p3_2110512121_vinessagabby.test:style/WhiteBackgroundDialogTheme = 0x7f010000

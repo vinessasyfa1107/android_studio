@@ -1,0 +1,7 @@
+#Sat Mar 02 18:19:30 WIB 2024
+base.0=C\:\\Users\\vga2\\2P3_2110512121_VinessaGabby\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\vga2\\2P3_2110512121_VinessaGabby\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
