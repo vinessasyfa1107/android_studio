@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mahasiswa</string>
+    <string name="nim">NPM</string>
+    <string name="nama">Nama</string>
+    <string name="tlp">Tlp</string>
+    <string name="prodi">Prodi</string>
+</resources>
